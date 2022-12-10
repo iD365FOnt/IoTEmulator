@@ -1,4 +1,4 @@
-# # IoT Emulator
+# IoT Emulator
 
 The aim of this project is to create an easy interface to control several IoT devices.
 
